@@ -4,11 +4,11 @@
 
 | Nama  |  Nim | Kelas |
 | ----------------- | ------------- |------------- |
-| Muhamad Jati Wasesa      | 312210481 | TI 22 A5 |
-| Idris Syahruddin         | 312210467 | TI 22 A5 |
-| Dimas Aditya Putranto    | 312210489 | TI 22 A5 |
-| Hardi Wirkan             | 312210492 | TI 22 A5 |
-| Dzaky Alaudin Malik      | 312210495 | TI 22 A5 |
+| Faisal Arya Yudianto       | 312210555 | TI 22 A5 |
+| Silvi Fara dita            | 312210498 | TI 22 A5 |
+| Nadiatul Umah              | 312210500 | TI 22 A5 |
+| Tatia Deswita Anggraeni    | 312210478 | TI 22 A5 |
+| Nurkholik Safrudin         | 312210507 | TI 22 A5 |
 
 
 
